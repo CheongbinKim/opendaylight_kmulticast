@@ -45,3 +45,7 @@ Version 8.2 Java EE
 
 https://netbeans.org/downloads/
 
+$ chmod +x netbeans-8.2-javaee-linux.sh
+
+$ ./netbeans-8.2.javaee-linux.sh
+
