@@ -57,3 +57,4 @@ Package : kr.ac.konkuk.cclab.kmulticast
       </repositories>
       
 * Edit Activator and configureInstance()
+소스참고 
