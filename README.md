@@ -49,6 +49,6 @@ $ chmod +x netbeans-8.2-javaee-linux.sh
 
 $ ./netbeans-8.2.javaee-linux.sh
 
-# Opendaylight Maven Repository
+# Opendaylight Repository
 
 $ wget -q -O - https://raw.githubusercontent.com/opendaylight/odlparent/master/settings.xml > ~/.m2/settings.xml
