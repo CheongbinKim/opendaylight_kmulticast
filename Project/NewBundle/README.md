@@ -1,5 +1,7 @@
 # OpenDaylight OSGi bundle Sample project
 
+use Netbeans
+
 File->New Project->Maven->OSGi Bundle
 
 Group Id : kr.ac.konkuk.cclab
@@ -7,6 +9,14 @@ Group Id : kr.ac.konkuk.cclab
 Version : 1.0-SNAPSHOT
 
 Package : kr.ac.konkuk.cclab.kmulticast
+
+or
+
+use archetype
+
+
+    $ mvn archetype:generate -DarchetypeGroupId=org.apache.karaf.archetypes -DarchetypeArtifactId=karaf-bundle-archetype
+
 
 # Edit POM.xml
 
